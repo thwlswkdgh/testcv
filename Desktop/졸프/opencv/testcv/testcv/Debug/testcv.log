@@ -1,0 +1,3 @@
+﻿  cvEx0716.cpp
+c:\users\권소진\desktop\opencv_c++api_appendix\opencv2.4.10(examples)\chap7\cvex0716\cvex0716.cpp(68): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  testcv.vcxproj -> C:\Users\권소진\Desktop\졸프\opencv\testcv\Debug\testcv.exe
